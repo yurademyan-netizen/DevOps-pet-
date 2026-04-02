@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ansible",
+    "\\docker",
+    "\\docker\\frontend",
+    "\\scripts"
+  ],
+  "SelectedNode": "\\terrafrom",
+  "PreviewInSolutionExplorer": false
+}
